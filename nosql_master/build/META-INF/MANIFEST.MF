@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Built-By: poibot
+
+Name: common
+Implementation-Vendor: Apache Software Foundation
+Implementation-Title: jakarta-poi
+Specification-Title: jakarta-poi
+Implementation-Version: 1.11.0-dev
+Specification-Version: 1.11.0
+Specification-Vendor: Apache Software Foundation
+

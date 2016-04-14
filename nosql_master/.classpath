@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="archive/" kind="src" path="src"/>
+	<classpathentry kind="src" path="src/archive"/>
+	<classpathentry kind="lib" path="lib/aspectjrt.jar"/>
+	<classpathentry kind="lib" path="lib/jakarta-poi.jar"/>
+	<classpathentry kind="lib" path="lib/junit.jar"/>
+	<classpathentry kind="lib" path="lib/log4j.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="/home/jagruti/workspace/paul281/data-master/nosql/lib/org.restlet.jar"/>
+	<classpathentry kind="lib" path="/home/jagruti/workspace/paul281/data-master/nosql/lib/json-simple-1.1.jar"/>
+	<classpathentry kind="lib" path="/home/jagruti/workspace/paul281/data-master/nosql/lib/httpclient-4.5.2.jar"/>
+	<classpathentry kind="lib" path="/home/jagruti/workspace/paul281/data-master/nosql/lib/httpclient-cache-4.5.2.jar"/>
+	<classpathentry kind="lib" path="/home/jagruti/workspace/paul281/data-master/nosql/lib/httpclient-win-4.5.2.jar"/>
+	<classpathentry kind="lib" path="/home/jagruti/workspace/paul281/data-master/nosql/lib/httpcomponents-client-4.5.2-bin.zip"/>
+	<classpathentry kind="lib" path="/home/jagruti/workspace/paul281/data-master/nosql/lib/httpcore-4.4.4.jar"/>
+	<classpathentry kind="lib" path="/home/jagruti/workspace/paul281/data-master/nosql/lib/httpmime-4.5.2.jar"/>
+	<classpathentry kind="lib" path="/home/jagruti/workspace/paul281/data-master/nosql/lib/jakarta-poi.jar"/>
+	<classpathentry kind="lib" path="/home/jagruti/workspace/paul281/data-master/nosql/lib/jna-4.1.0.jar"/>
+	<classpathentry kind="lib" path="/home/jagruti/workspace/paul281/data-master/nosql/lib/jna-platform-4.1.0.jar"/>
+	<classpathentry kind="lib" path="/home/jagruti/workspace/paul281/data-master/nosql/lib/junit.jar"/>
+	<classpathentry kind="lib" path="/home/jagruti/workspace/paul281/data-master/nosql/lib/log4j.jar"/>
+	<classpathentry kind="lib" path="/home/jagruti/workspace/paul281/data-master/nosql/lib/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="/home/jagruti/workspace/paul281/data-master/nosql/lib/commons-io-2.4-bin.zip"/>
+	<classpathentry kind="lib" path="/home/jagruti/workspace/paul281/data-master/nosql/lib/commons-io-2.4-javadoc.jar"/>
+	<classpathentry kind="lib" path="/home/jagruti/workspace/paul281/data-master/nosql/lib/commons-io-2.4-sources.jar"/>
+	<classpathentry kind="lib" path="/home/jagruti/workspace/paul281/data-master/nosql/lib/commons-io-2.4-tests.jar"/>
+	<classpathentry kind="lib" path="/home/jagruti/workspace/paul281/data-master/nosql/lib/commons-io-2.4-test-sources.jar"/>
+	<classpathentry kind="lib" path="/home/jagruti/workspace/paul281/data-master/nosql/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="lib/gson-2.2.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
